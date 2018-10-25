@@ -2000,7 +2000,7 @@ that	WDT
 had	VBD
 been	VBN
 done	VBN
-unto	JJ
+unto	RB
 similarly	RB
 by	IN
 the	DT
@@ -2179,8 +2179,8 @@ in	IN
 green	NN
 and	CC
 gold	NN
-salted	VBN
-away	RP
+salted	VBD
+away	RB
 successes	NNS
 to	TO
 salve	VB
@@ -2546,7 +2546,7 @@ Series	NN
 of	IN
 the	DT
 Subway	NN
-Called	VBD
+Called	VBN
 BART	NNP
 (	(
 that	WDT
@@ -2560,7 +2560,7 @@ public	JJ
 conveyance	NN
 than	IN
 ``	``
-Desire	JJ
+Desire	NNP
 ,	,
 ''	''
 do	VBP
@@ -3084,7 +3084,7 @@ runs	NNS
 and	CC
 24	CD
 runs	NNS
-batted	VBD
+batted	VBN
 in	IN
 in	IN
 the	DT
@@ -12129,7 +12129,7 @@ York	NNP
 
 A	DT
 UNIFIED	NNP
-EUROPE	NN
+EUROPE	NNP
 poses	VBZ
 labor	NN
 problems	NNS
@@ -12308,9 +12308,9 @@ finding	VBG
 workers	NNS
 .	.
 
-CLUBBING	IN
-A	DT
-FAN	NN
+CLUBBING	NNP
+A	NNP
+FAN	NNP
 was	VBD
 n't	RB
 the	DT
@@ -12768,7 +12768,7 @@ floors	NNS
 bought	VBD
 plants	NNS
 ,	,
-cleaned	VBN
+cleaned	VBD
 windows	NNS
 and	CC
 blinds	NNS
@@ -13106,7 +13106,7 @@ Since	IN
 ,	,
 firms	NNS
 offering	NN
-prepurchase	NN
+prepurchase	VBP
 house	NN
 appraisals	NNS
 ,	,
@@ -13158,8 +13158,8 @@ that	WDT
 's	VBZ
 reactionary	JJ
 :	:
-Letter	NNP
-Carriers	NNP
+Letter	NN
+Carriers	NNS
 union	NN
 president	NN
 Vincent	NNP
@@ -13917,8 +13917,8 @@ aggressive	JJ
 
 Reluctant	JJ
 Advertisers	NNS
-Try	VBP
-Soft	NNP
+Try	VB
+Soft	RB
 -	HYPH
 Sell	VB
 Spots	NNS
@@ -16603,8 +16603,8 @@ excesses	NNS
 putting	VBG
 aside	RB
 the	DT
-artificial	NN
-boosts	VBZ
+artificial	JJ
+boosts	NNS
 that	IN
 the	DT
 tax	NN
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	NN
+pre-trading	JJ
 declaration	NN
 of	IN
 Big	NNP
@@ -22220,7 +22220,7 @@ Jeremy	NNP
 Rifkin	NNP
 and	CC
 the	DT
-Christic	NNP
+Christic	JJ
 Institute	NNP
 in	IN
 the	DT
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NN
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -26002,7 +26002,7 @@ operation	NN
 .	.
 
 A	DT
-BMA	NNP
+BMA	NN
 spokesman	NN
 said	VBD
 ``	``
@@ -27844,7 +27844,7 @@ coming	VBG
 back	RB
 .	.
 
-Trendy	JJ
+Trendy	NNP
 magazine	NN
 advertisements	NNS
 feature	VBP
@@ -28281,7 +28281,7 @@ then	RB
 ''	''
 says	VBZ
 an	DT
-Agfa	JJ
+Agfa	NN
 spokesman	NN
 .	.
 
@@ -36371,7 +36371,7 @@ toward	IN
 eventual	JJ
 elimination	NN
 of	IN
-CFC	NN
+CFC	NNP
 use	NN
 in	IN
 appliance	NN
@@ -39578,8 +39578,8 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBN
-forward	RB
+steamed	VBD
+forward	NN
 as	IN
 institutions	NNS
 resumed	VBD
